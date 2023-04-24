@@ -46,5 +46,5 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 ##
 
 <h1 align="center">
-  <img src="Print/Print.jpg" width="250" height="500">    
+  <img src="Print/Print.jpg" width="500" height="400">    
 </h1>
